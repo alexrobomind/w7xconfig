@@ -1,0 +1,9 @@
+mpld3
+pyvista
+trame
+trame_client
+trame_matplotlib
+trame_vtk
+trame_vuetify
+fusionsc
+matplotlib
