@@ -1,0 +1,17 @@
+[project]
+name = "w7xconfig"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fusionsc>=2.6.0",
+    "matplotlib>=3.10.1",
+    "mpld3>=0.5.10",
+    "pyvista>=0.44.2",
+    "trame>=3.8.1",
+    "trame-client>=3.6.1",
+    "trame-matplotlib>=2.0.3",
+    "trame-vtk>=2.8.15",
+    "trame-vuetify>=2.8.2",
+]
